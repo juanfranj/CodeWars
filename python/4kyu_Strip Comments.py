@@ -1,5 +1,7 @@
 """
-Complete the solution so that it strips all text that follows any of a set of comment markers passed in. Any whitespace at the end of the line should also be stripped out.
+Complete the solution so that it strips all text that follows any of a set ofç
+comment markers passed in. Any whitespace at the end of the line should also
+be stripped out.
 
 Example:
 
@@ -15,7 +17,8 @@ grapes
 bananas
 The code would be called like so:
 
-result = solution("apples, pears # and bananas\ngrapes\nbananas !apples", ["#", "!"])
+result = solution("apples, pears # and bananas\ngrapes\nbananas !apples",
+["#", "!"])
 # result should == "apples, pears\ngrapes\nbananas"
 """
 # Best code
@@ -42,13 +45,14 @@ def solution(string, markers):
                 return ""
             if string[j] != markers[i]:
                 temporal += string[j]
-                j += 1   
+                j += 1
             else:
                 if string[j-1] == " ":
                     temporal = temporal[0:-1]
                 while string[j] != "\n":
                     j += 1
-                    if j == len(string): break
+                    if j == len(string):
+                        break
             if j == len(string):
                 fin = True
         string = temporal
