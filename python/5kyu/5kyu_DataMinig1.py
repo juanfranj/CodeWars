@@ -14,22 +14,33 @@ class Datamining:
         #coeficientes de recta de regresion y = a + bx
         self.b = self.calculoCoeficienteB()
         self.a = self.calculoCoeficienteA()
-
+        self.pred = [self.predict(point[0]) for point in train_set]
+        self.e = [point[0] - point[1] for point in zip(self.pred,self.y)]
+        self.e2 = [point*point for point in self.e]
+        self.error = self.calculoError()
+        print("El ECM es: ", self.error)
 
     def predict(self, x):
         y = self.a + (self.b * x)
+        
         return y
 
     def calculoCoeficienteB(self):
         b = (sum(self.xy)-(sum(self.x)*sum(self.y)/self.N))/(sum(self.x2)-(sum(self.x)*sum(self.x)/self.N))
         return b
+
     def calculoCoeficienteA(self):
         a = self.mediay-(self.mediax * self.b)
         return a
 
+    def calculoError(self):
+        error = sum(self.e2)/self.N
+        
+        return error
+
 
 if __name__ == '__main__':
-    example_train_set = [(8, 3),
+    example_train_set= [(8, 3),
     (2, 10),
     (11, 3),
     (6, 6),
@@ -40,13 +51,19 @@ if __name__ == '__main__':
     (6,9),
     (1,14)
     ]
-
+    example_train_set_= [(58, 110),
+    (59, 100),
+    (64, 166),
+    (66, 197),
+    (67, 201)
+    ]
     dm = Datamining(example_train_set)
     predicted = [round(dm.predict(point[0]),2) for point in example_train_set]
     print("\n-------Solucion al problema de aproximacion lineal--------")
     for i in zip(example_train_set, predicted):
         print(f"X: {i[0][0]}, Y: {i[0][1]}, Ypred: {i[1]}")
     print("----------------------------------------------------------")
+    print(sum(dm.e2), dm.e)
     #print(predicted)
     #print(a.N,sum(a.x), sum(a.y), sum(a.xy), sum(a.x2), a.mediax, a.mediay, a.b, a.a)
 
