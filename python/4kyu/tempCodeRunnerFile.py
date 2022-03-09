@@ -1,1 +1,3 @@
-[^'a-zA-Z0-9]+|'{1,}\s
+    aux.append(primo)
+                aux.append(sum(aux_2))
+                sol.append(aux)
