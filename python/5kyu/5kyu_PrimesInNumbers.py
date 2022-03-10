@@ -38,7 +38,7 @@ def introduce_factor(primo, dic):
         dic[primo] += 1
 
 if __name__ == '__main__':
-    n = 18195729325
+    n = 25002385
     sol = prime_factors(n)
     print(sol)
 
