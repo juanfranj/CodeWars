@@ -1,6 +1,1 @@
-
-    while(n):
-        number+=int(n/5)
-        n=int(n/5)
-        
-    return number
+ print(helper.page_index(5))
