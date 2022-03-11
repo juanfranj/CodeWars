@@ -1,6 +1,5 @@
 # Katas CodeWars
 
-Katas resueltos:
 
 ### 3kyu:
 - 3kyu_Battleship field validator. 
