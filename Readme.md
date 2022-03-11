@@ -6,7 +6,7 @@
 
 - 3kyu_MakeSpiral. 
 
-- borrar. 
+- 3kyu_Sudoku. 
 
 
 ### 4kyu:
