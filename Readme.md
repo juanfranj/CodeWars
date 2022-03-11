@@ -2,12 +2,12 @@
 
 Katas resueltos:
 
-## 3kyu:
+### 3kyu:
 -3kyu_Battleship field validator.
 -3kyu_MakeSpiral.
 -borrar.
 
-## 4kyu:
+### 4kyu:
 -4kuy_SumByFactors.
 -4kyu_Human readable duration format.
 -4kyu_MostFrequentlyWord.
@@ -25,7 +25,7 @@ Katas resueltos:
 -4kyu_TheObservedPin.
 -4kyu_TwiceLinear.
 
-## 5kyu:
+### 5kyu:
 -5kuy_PaginationHelper.
 -5kyu_AChainAddingFunction.
 -5kyu_Calculating with Functions.
@@ -61,7 +61,7 @@ Katas resueltos:
 -5kyu_WhereMyAnagramsAt.
 -5ky_AroundFibonacci.
 
-## 6kyu:
+### 6kyu:
 -6kyu_ArrayDiff.
 -6kyu_CountEspiral.
 -6kyu_Counting Duplicates.
@@ -85,7 +85,7 @@ Katas resueltos:
 -6kyu_WeIrD StRiNg CaSe.
 -6kyu_WhoLikesIt.
 
-## 7kyu:
+### 7kyu:
 -7kyu_Beginner Series #3 Sum of Numbers.
 -7kyu_DisemvowelTrolls.
 -7kyu_GetMiddleCharacter.
@@ -96,7 +96,7 @@ Katas resueltos:
 -7kyu_Two to One.
 -7kyu_VolwelCount.
 
-## 8kyu:
+### 8kyu:
 -8kyu_EvenOrOdd.
 -8kyu_Multiply.
 -8kyu_OppositeNumber.
