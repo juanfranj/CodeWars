@@ -48,7 +48,7 @@
 
 - 2_5kyu_AChainAddingFunction. 
 
-- 3_5kyu_Calculating with Functions. 
+- 3_5kyu_CalculatingWithFunctions. 
 
 - 4_5kyu_CanYouGetTheLoop. 
 
@@ -74,45 +74,47 @@
 
 - 15_5kyu_MaximunSubarraySum. 
 
-- 16_5kyu_MovingZerosToTheEnd. 
+- 16_5kyu_MemoizedFibonacci. 
 
-- 17_5kyu_NotVerySecure. 
+- 17_5kyu_MovingZerosToTheEnd. 
 
-- 18_5kyu_NumberTraillingZeros. 
+- 18_5kyu_NotVerySecure. 
 
-- 19_5kyu_PerimeterSquaersInRectangle. 
+- 19_5kyu_NumberTraillingZeros. 
 
-- 20_5kyu_PeteTheBacker. 
+- 20_5kyu_PerimeterSquaersInRectangle. 
 
-- 21_5kyu_PickPeaks. 
+- 21_5kyu_PeteTheBacker. 
 
-- 22_5kyu_PrimesInNumbers. 
+- 22_5kyu_PickPeaks. 
 
-- 23_5kyu_Product of consecutive Fib numbers. 
+- 23_5kyu_PrimesInNumbers. 
 
-- 24_5kyu_RegexPasswordValidation. 
+- 24_5kyu_Product of consecutive Fib numbers. 
 
-- 25_5Kyu_RGBToHexConversion. 
+- 25_5kyu_RegexPasswordValidation. 
 
-- 26_5kyu_Rot13. 
+- 26_5Kyu_RGBToHexConversion. 
 
-- 27_5kyu_Scramblies. 
+- 27_5kyu_Rot13. 
 
-- 28_5kyu_SimplePigLatin. 
+- 28_5kyu_Scramblies. 
 
-- 29_5kyu_String incrementer. 
+- 29_5kyu_SimplePigLatin. 
 
-- 30_5kyu_SumOfPairs. 
+- 30_5kyu_String incrementer. 
 
-- 31_5kyu_TheHastagGenerator. 
+- 31_5kyu_SumOfPairs. 
 
-- 32_5kyu_Valid Parentheses. 
+- 32_5kyu_TheHastagGenerator. 
 
-- 33_5kyu_WeightForWight. 
+- 33_5kyu_Valid Parentheses. 
 
-- 34_5kyu_WhereMyAnagramsAt. 
+- 34_5kyu_WeightForWight. 
 
-- 35_5ky_AroundFibonacci. 
+- 35_5kyu_WhereMyAnagramsAt. 
+
+- 36_5ky_AroundFibonacci. 
 
 
 ### 6kyu:
