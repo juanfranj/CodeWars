@@ -112,9 +112,11 @@
 
 - 34_5kyu_WeightForWight. 
 
-- 35_5kyu_WhereMyAnagramsAt. 
+- 35_5kyu_WhatsPerfectPowerAnyWay. 
 
-- 36_5ky_AroundFibonacci. 
+- 36_5kyu_WhereMyAnagramsAt. 
+
+- 37_5ky_AroundFibonacci. 
 
 
 ### 6kyu:
