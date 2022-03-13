@@ -180,9 +180,11 @@
 
 - 7_7kyu_Square Every Digit. 
 
-- 8_7kyu_Two to One. 
+- 8_7kyu_SuitcasePacking. 
 
-- 9_7kyu_VolwelCount. 
+- 9_7kyu_Two to One. 
+
+- 10_7kyu_VolwelCount. 
 
 
 ### 8kyu:
