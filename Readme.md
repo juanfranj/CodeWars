@@ -102,6 +102,8 @@
 
 - 5kyu_String incrementer. 
 
+- 5kyu_SumOfPairs. 
+
 - 5kyu_TheHastagGenerator. 
 
 - 5kyu_Valid Parentheses. 
