@@ -2,189 +2,189 @@
 
 
 ### 3kyu:
-- 3kyu_Battleship field validator. 
+- 1_3kyu_Battleship field validator. 
 
-- 3kyu_MakeSpiral. 
+- 2_3kyu_MakeSpiral. 
 
-- 3kyu_Sudoku. 
+- 3_3kyu_Sudoku. 
 
 
 ### 4kyu:
-- 4kuy_SumByFactors. 
+- 1_4kuy_SumByFactors. 
 
-- 4kyu_Human readable duration format. 
+- 2_4kyu_Human readable duration format. 
 
-- 4kyu_MostFrequentlyWord. 
+- 3_4kyu_MostFrequentlyWord. 
 
-- 4kyu_NestBiggerNumberWithSameDigits. 
+- 4_4kyu_NestBiggerNumberWithSameDigits. 
 
-- 4kyu_NestingStructureComparation. 
+- 5_4kyu_NestingStructureComparation. 
 
-- 4kyu_Permutations. 
+- 6_4kyu_Permutations. 
 
-- 4kyu_RangeExtraction. 
+- 7_4kyu_RangeExtraction. 
 
-- 4kyu_RomanNumeralsHelper. 
+- 8_4kyu_RomanNumeralsHelper. 
 
-- 4kyu_Snail Sort. 
+- 9_4kyu_Snail Sort. 
 
-- 4kyu_StringMix. 
+- 10_4kyu_StringMix. 
 
-- 4kyu_Strip Comments. 
+- 11_4kyu_Strip Comments. 
 
-- 4kyu_SudokuSolutionValidation. 
+- 12_4kyu_SudokuSolutionValidation. 
 
-- 4kyu_Sum of Intervals. 
+- 13_4kyu_Sum of Intervals. 
 
-- 4kyu_Ten-Pin Bowling. 
+- 14_4kyu_Ten-Pin Bowling. 
 
-- 4kyu_TheObservedPin. 
+- 15_4kyu_TheObservedPin. 
 
-- 4kyu_TwiceLinear. 
+- 16_4kyu_TwiceLinear. 
 
 
 ### 5kyu:
-- 5kuy_PaginationHelper. 
+- 1_5kuy_PaginationHelper. 
 
-- 5kyu_AChainAddingFunction. 
+- 2_5kyu_AChainAddingFunction. 
 
-- 5kyu_Calculating with Functions. 
+- 3_5kyu_Calculating with Functions. 
 
-- 5kyu_CanYouGetTheLoop. 
+- 4_5kyu_CanYouGetTheLoop. 
 
-- 5kyu_CreateSpriral. 
+- 5_5kyu_CreateSpriral. 
 
-- 5kyu_DataMinig1. 
+- 6_5kyu_DataMinig1. 
 
-- 5kyu_Directions Reduction. 
+- 7_5kyu_Directions Reduction. 
 
-- 5kyu_Esolang Interpreters #2. 
+- 8_5kyu_Esolang Interpreters #2. 
 
-- 5kyu_ExtractTheDomainURL. 
+- 9_5kyu_ExtractTheDomainURL. 
 
-- 5kyu_FirstNonRepeatingCharacter. 
+- 10_5kyu_FirstNonRepeatingCharacter. 
 
-- 5kyu_Gap in Primes. 
+- 11_5kyu_Gap in Primes. 
 
-- 5kyu_GreedIsGood. 
+- 12_5kyu_GreedIsGood. 
 
-- 5kyu_HumanReadableTime. 
+- 13_5kyu_HumanReadableTime. 
 
-- 5kyu_IntegersRecreationOne. 
+- 14_5kyu_IntegersRecreationOne. 
 
-- 5kyu_MaximunSubarraySum. 
+- 15_5kyu_MaximunSubarraySum. 
 
-- 5kyu_MovingZerosToTheEnd. 
+- 16_5kyu_MovingZerosToTheEnd. 
 
-- 5kyu_NotVerySecure. 
+- 17_5kyu_NotVerySecure. 
 
-- 5kyu_NumberTraillingZeros. 
+- 18_5kyu_NumberTraillingZeros. 
 
-- 5kyu_PerimeterSquaersInRectangle. 
+- 19_5kyu_PerimeterSquaersInRectangle. 
 
-- 5kyu_PeteTheBacker. 
+- 20_5kyu_PeteTheBacker. 
 
-- 5kyu_PickPeaks. 
+- 21_5kyu_PickPeaks. 
 
-- 5kyu_PrimesInNumbers. 
+- 22_5kyu_PrimesInNumbers. 
 
-- 5kyu_Product of consecutive Fib numbers. 
+- 23_5kyu_Product of consecutive Fib numbers. 
 
-- 5kyu_RegexPasswordValidation. 
+- 24_5kyu_RegexPasswordValidation. 
 
-- 5Kyu_RGBToHexConversion. 
+- 25_5Kyu_RGBToHexConversion. 
 
-- 5kyu_Rot13. 
+- 26_5kyu_Rot13. 
 
-- 5kyu_Scramblies. 
+- 27_5kyu_Scramblies. 
 
-- 5kyu_SimplePigLatin. 
+- 28_5kyu_SimplePigLatin. 
 
-- 5kyu_String incrementer. 
+- 29_5kyu_String incrementer. 
 
-- 5kyu_SumOfPairs. 
+- 30_5kyu_SumOfPairs. 
 
-- 5kyu_TheHastagGenerator. 
+- 31_5kyu_TheHastagGenerator. 
 
-- 5kyu_Valid Parentheses. 
+- 32_5kyu_Valid Parentheses. 
 
-- 5kyu_WeightForWight. 
+- 33_5kyu_WeightForWight. 
 
-- 5kyu_WhereMyAnagramsAt. 
+- 34_5kyu_WhereMyAnagramsAt. 
 
-- 5ky_AroundFibonacci. 
+- 35_5ky_AroundFibonacci. 
 
 
 ### 6kyu:
-- 6kyu_ArrayDiff. 
+- 1_6kyu_ArrayDiff. 
 
-- 6kyu_CountEspiral. 
+- 2_6kyu_CountEspiral. 
 
-- 6kyu_Counting Duplicates. 
+- 3_6kyu_Counting Duplicates. 
 
-- 6kyu_CreatePhoneNumber. 
+- 4_6kyu_CreatePhoneNumber. 
 
-- 6kyu_Decode the Morse code. 
+- 5_6kyu_Decode the Morse code. 
 
-- 6kyu_DigitalRoot. 
+- 6_6kyu_DigitalRoot. 
 
-- 6kyu_Does my number look big in this. 
+- 7_6kyu_Does my number look big in this. 
 
-- 6kyu_DuplicateEncoder. 
+- 8_6kyu_DuplicateEncoder. 
 
-- 6kyu_Encrypt this!. 
+- 9_6kyu_Encrypt this!. 
 
-- 6kyu_Equal Sides Of An Array. 
+- 10_6kyu_Equal Sides Of An Array. 
 
-- 6kyu_FindTheOddInt. 
+- 11_6kyu_FindTheOddInt. 
 
-- 6kyu_FindUniqueNumber. 
+- 12_6kyu_FindUniqueNumber. 
 
-- 6kyu_IQ Test. 
+- 13_6kyu_IQ Test. 
 
-- 6kyu_Multiplies3or5. 
+- 14_6kyu_Multiplies3or5. 
 
-- 6kyu_Roman Numerals Decoder. 
+- 15_6kyu_Roman Numerals Decoder. 
 
-- 6kyu_SortOnlyIntegers. 
+- 16_6kyu_SortOnlyIntegers. 
 
-- 6kyu_StopGninninpSMySdroW. 
+- 17_6kyu_StopGninninpSMySdroW. 
 
-- 6kyu_Sum of Digits_Digital Root. 
+- 18_6kyu_Sum of Digits_Digital Root. 
 
-- 6kyu_Take a Ten Minute Walk. 
+- 19_6kyu_Take a Ten Minute Walk. 
 
-- 6kyu_Tribonacci Sequence. 
+- 20_6kyu_Tribonacci Sequence. 
 
-- 6kyu_WeIrD StRiNg CaSe. 
+- 21_6kyu_WeIrD StRiNg CaSe. 
 
-- 6kyu_WhoLikesIt. 
+- 22_6kyu_WhoLikesIt. 
 
 
 ### 7kyu:
-- 7kyu_Beginner Series #3 Sum of Numbers. 
+- 1_7kyu_Beginner Series #3 Sum of Numbers. 
 
-- 7kyu_DisemvowelTrolls. 
+- 2_7kyu_DisemvowelTrolls. 
 
-- 7kyu_GetMiddleCharacter. 
+- 3_7kyu_GetMiddleCharacter. 
 
-- 7kyu_HighestAndLowest. 
+- 4_7kyu_HighestAndLowest. 
 
-- 7kyu_MakeEqual. 
+- 5_7kyu_MakeEqual. 
 
-- 7kyu_Shortest Word. 
+- 6_7kyu_Shortest Word. 
 
-- 7kyu_Square Every Digit. 
+- 7_7kyu_Square Every Digit. 
 
-- 7kyu_Two to One. 
+- 8_7kyu_Two to One. 
 
-- 7kyu_VolwelCount. 
+- 9_7kyu_VolwelCount. 
 
 
 ### 8kyu:
-- 8kyu_EvenOrOdd. 
+- 1_8kyu_EvenOrOdd. 
 
-- 8kyu_Multiply. 
+- 2_8kyu_Multiply. 
 
-- 8kyu_OppositeNumber. 
+- 3_8kyu_OppositeNumber. 
 
