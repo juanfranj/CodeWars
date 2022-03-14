@@ -56,67 +56,71 @@
 
 - 6_5kyu_DataMinig1. 
 
-- 7_5kyu_Directions Reduction. 
+- 7_5kyu_DidYouMean. 
 
-- 8_5kyu_Esolang Interpreters #2. 
+- 8_5kyu_Directions Reduction. 
 
-- 9_5kyu_ExtractTheDomainURL. 
+- 9_5kyu_Esolang Interpreters #2. 
 
-- 10_5kyu_FirstNonRepeatingCharacter. 
+- 10_5kyu_ExtractTheDomainURL. 
 
-- 11_5kyu_Gap in Primes. 
+- 11_5kyu_FirstNonRepeatingCharacter. 
 
-- 12_5kyu_GreedIsGood. 
+- 12_5kyu_Gap in Primes. 
 
-- 13_5kyu_HumanReadableTime. 
+- 13_5kyu_GreedIsGood. 
 
-- 14_5kyu_IntegersRecreationOne. 
+- 14_5kyu_HumanReadableTime. 
 
-- 15_5kyu_MaximunSubarraySum. 
+- 15_5kyu_IntegersRecreationOne. 
 
-- 16_5kyu_MemoizedFibonacci. 
+- 16_5kyu_LastDigitLargeNumber. 
 
-- 17_5kyu_MovingZerosToTheEnd. 
+- 17_5kyu_MaximunSubarraySum. 
 
-- 18_5kyu_NotVerySecure. 
+- 18_5kyu_MemoizedFibonacci. 
 
-- 19_5kyu_NumberTraillingZeros. 
+- 19_5kyu_MovingZerosToTheEnd. 
 
-- 20_5kyu_PerimeterSquaersInRectangle. 
+- 20_5kyu_NotVerySecure. 
 
-- 21_5kyu_PeteTheBacker. 
+- 21_5kyu_NumberTraillingZeros. 
 
-- 22_5kyu_PickPeaks. 
+- 22_5kyu_PerimeterSquaersInRectangle. 
 
-- 23_5kyu_PrimesInNumbers. 
+- 23_5kyu_PeteTheBacker. 
 
-- 24_5kyu_Product of consecutive Fib numbers. 
+- 24_5kyu_PickPeaks. 
 
-- 25_5kyu_RegexPasswordValidation. 
+- 25_5kyu_PrimesInNumbers. 
 
-- 26_5Kyu_RGBToHexConversion. 
+- 26_5kyu_Product of consecutive Fib numbers. 
 
-- 27_5kyu_Rot13. 
+- 27_5kyu_RegexPasswordValidation. 
 
-- 28_5kyu_Scramblies. 
+- 28_5Kyu_RGBToHexConversion. 
 
-- 29_5kyu_SimplePigLatin. 
+- 29_5kyu_Rot13. 
 
-- 30_5kyu_String incrementer. 
+- 30_5kyu_Scramblies. 
 
-- 31_5kyu_SumOfPairs. 
+- 31_5kyu_SimplePigLatin. 
 
-- 32_5kyu_TheHastagGenerator. 
+- 32_5kyu_String incrementer. 
 
-- 33_5kyu_Valid Parentheses. 
+- 33_5kyu_SumOfPairs. 
 
-- 34_5kyu_WeightForWight. 
+- 34_5kyu_TheHastagGenerator. 
 
-- 35_5kyu_WhatsPerfectPowerAnyWay. 
+- 35_5kyu_Valid Parentheses. 
 
-- 36_5kyu_WhereMyAnagramsAt. 
+- 36_5kyu_WeightForWight. 
 
-- 37_5ky_AroundFibonacci. 
+- 37_5kyu_WhatsPerfectPowerAnyWay. 
+
+- 38_5kyu_WhereMyAnagramsAt. 
+
+- 39_5ky_AroundFibonacci. 
 
 
 ### 6kyu:
@@ -166,7 +170,7 @@
 
 
 ### 7kyu:
-- 1_7kyu_Beginner Series #3 Sum of Numbers. 
+- 1_7kyu_BeginnerSeries#3. 
 
 - 2_7kyu_DisemvowelTrolls. 
 
