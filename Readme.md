@@ -62,7 +62,7 @@
 
 -[9-5kyu_DirectionsReduction.](https://github.com/juanfranj/CodeWars/blob/master/python/5kyu/5kyu_DirectionsReduction.py) 
 
--[10-5kyu_EsolangInterpreters #2.](https://github.com/juanfranj/CodeWars/blob/master/python/5kyu/5kyu_EsolangInterpreters #2.py) 
+-[10-5kyu_EsolangInterpreters#2.](https://github.com/juanfranj/CodeWars/blob/master/python/5kyu/5kyu_EsolangInterpreters#2.py) 
 
 -[11-5kyu_ExtractTheDomainURL.](https://github.com/juanfranj/CodeWars/blob/master/python/5kyu/5kyu_ExtractTheDomainURL.py) 
 
