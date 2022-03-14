@@ -199,4 +199,5 @@
 - 3-8kyu_OppositeNumber. 
 
 
- Número de katas resueltos: **93**
+***  
+Número de katas resueltos: **93**
