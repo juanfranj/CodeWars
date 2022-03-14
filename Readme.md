@@ -150,27 +150,29 @@
 
 - [12-6kyu_FindTheOddInt.](https://github.com/juanfranj/CodeWars/blob/master/python/6kyu/6kyu_FindTheOddInt.py) 
 
-- [13-6kyu_FindUniqueNumber.](https://github.com/juanfranj/CodeWars/blob/master/python/6kyu/6kyu_FindUniqueNumber.py) 
+- [13-6kyu_FindTheParityOutlier.](https://github.com/juanfranj/CodeWars/blob/master/python/6kyu/6kyu_FindTheParityOutlier.py) 
 
-- [14-6kyu_IQTest.](https://github.com/juanfranj/CodeWars/blob/master/python/6kyu/6kyu_IQTest.py) 
+- [14-6kyu_FindUniqueNumber.](https://github.com/juanfranj/CodeWars/blob/master/python/6kyu/6kyu_FindUniqueNumber.py) 
 
-- [15-6kyu_Multiplies3or5.](https://github.com/juanfranj/CodeWars/blob/master/python/6kyu/6kyu_Multiplies3or5.py) 
+- [15-6kyu_IQTest.](https://github.com/juanfranj/CodeWars/blob/master/python/6kyu/6kyu_IQTest.py) 
 
-- [16-6kyu_RomanNumeralsDecoder.](https://github.com/juanfranj/CodeWars/blob/master/python/6kyu/6kyu_RomanNumeralsDecoder.py) 
+- [16-6kyu_Multiplies3or5.](https://github.com/juanfranj/CodeWars/blob/master/python/6kyu/6kyu_Multiplies3or5.py) 
 
-- [17-6kyu_SortOnlyIntegers.](https://github.com/juanfranj/CodeWars/blob/master/python/6kyu/6kyu_SortOnlyIntegers.py) 
+- [17-6kyu_RomanNumeralsDecoder.](https://github.com/juanfranj/CodeWars/blob/master/python/6kyu/6kyu_RomanNumeralsDecoder.py) 
 
-- [18-6kyu_StopGninninpSMySdroW.](https://github.com/juanfranj/CodeWars/blob/master/python/6kyu/6kyu_StopGninninpSMySdroW.py) 
+- [18-6kyu_SortOnlyIntegers.](https://github.com/juanfranj/CodeWars/blob/master/python/6kyu/6kyu_SortOnlyIntegers.py) 
 
-- [19-6kyu_SumDigitsDigitalRoot.](https://github.com/juanfranj/CodeWars/blob/master/python/6kyu/6kyu_SumDigitsDigitalRoot.py) 
+- [19-6kyu_StopGninninpSMySdroW.](https://github.com/juanfranj/CodeWars/blob/master/python/6kyu/6kyu_StopGninninpSMySdroW.py) 
 
-- [20-6kyu_TakeTenMinuteWalk.](https://github.com/juanfranj/CodeWars/blob/master/python/6kyu/6kyu_TakeTenMinuteWalk.py) 
+- [20-6kyu_SumDigitsDigitalRoot.](https://github.com/juanfranj/CodeWars/blob/master/python/6kyu/6kyu_SumDigitsDigitalRoot.py) 
 
-- [21-6kyu_TribonacciSequence.](https://github.com/juanfranj/CodeWars/blob/master/python/6kyu/6kyu_TribonacciSequence.py) 
+- [21-6kyu_TakeTenMinuteWalk.](https://github.com/juanfranj/CodeWars/blob/master/python/6kyu/6kyu_TakeTenMinuteWalk.py) 
 
-- [22-6kyu_WeIrDStRiNgCaSe.](https://github.com/juanfranj/CodeWars/blob/master/python/6kyu/6kyu_WeIrDStRiNgCaSe.py) 
+- [22-6kyu_TribonacciSequence.](https://github.com/juanfranj/CodeWars/blob/master/python/6kyu/6kyu_TribonacciSequence.py) 
 
-- [23-6kyu_WhoLikesIt.](https://github.com/juanfranj/CodeWars/blob/master/python/6kyu/6kyu_WhoLikesIt.py) 
+- [23-6kyu_WeIrDStRiNgCaSe.](https://github.com/juanfranj/CodeWars/blob/master/python/6kyu/6kyu_WeIrDStRiNgCaSe.py) 
+
+- [24-6kyu_WhoLikesIt.](https://github.com/juanfranj/CodeWars/blob/master/python/6kyu/6kyu_WhoLikesIt.py) 
 
 
 ### 7kyu:
@@ -204,4 +206,4 @@
 
 
 ***  
-Número de katas resueltos: **95**
+Número de katas resueltos: **96**
