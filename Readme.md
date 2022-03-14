@@ -158,21 +158,23 @@
 
 - [16-6kyu_Multiplies3or5.](https://github.com/juanfranj/CodeWars/blob/master/python/6kyu/6kyu_Multiplies3or5.py) 
 
-- [17-6kyu_RomanNumeralsDecoder.](https://github.com/juanfranj/CodeWars/blob/master/python/6kyu/6kyu_RomanNumeralsDecoder.py) 
+- [17-6kyu_PersistentBugger.](https://github.com/juanfranj/CodeWars/blob/master/python/6kyu/6kyu_PersistentBugger.py) 
 
-- [18-6kyu_SortOnlyIntegers.](https://github.com/juanfranj/CodeWars/blob/master/python/6kyu/6kyu_SortOnlyIntegers.py) 
+- [18-6kyu_RomanNumeralsDecoder.](https://github.com/juanfranj/CodeWars/blob/master/python/6kyu/6kyu_RomanNumeralsDecoder.py) 
 
-- [19-6kyu_StopGninninpSMySdroW.](https://github.com/juanfranj/CodeWars/blob/master/python/6kyu/6kyu_StopGninninpSMySdroW.py) 
+- [19-6kyu_SortOnlyIntegers.](https://github.com/juanfranj/CodeWars/blob/master/python/6kyu/6kyu_SortOnlyIntegers.py) 
 
-- [20-6kyu_SumDigitsDigitalRoot.](https://github.com/juanfranj/CodeWars/blob/master/python/6kyu/6kyu_SumDigitsDigitalRoot.py) 
+- [20-6kyu_StopGninninpSMySdroW.](https://github.com/juanfranj/CodeWars/blob/master/python/6kyu/6kyu_StopGninninpSMySdroW.py) 
 
-- [21-6kyu_TakeTenMinuteWalk.](https://github.com/juanfranj/CodeWars/blob/master/python/6kyu/6kyu_TakeTenMinuteWalk.py) 
+- [21-6kyu_SumDigitsDigitalRoot.](https://github.com/juanfranj/CodeWars/blob/master/python/6kyu/6kyu_SumDigitsDigitalRoot.py) 
 
-- [22-6kyu_TribonacciSequence.](https://github.com/juanfranj/CodeWars/blob/master/python/6kyu/6kyu_TribonacciSequence.py) 
+- [22-6kyu_TakeTenMinuteWalk.](https://github.com/juanfranj/CodeWars/blob/master/python/6kyu/6kyu_TakeTenMinuteWalk.py) 
 
-- [23-6kyu_WeIrDStRiNgCaSe.](https://github.com/juanfranj/CodeWars/blob/master/python/6kyu/6kyu_WeIrDStRiNgCaSe.py) 
+- [23-6kyu_TribonacciSequence.](https://github.com/juanfranj/CodeWars/blob/master/python/6kyu/6kyu_TribonacciSequence.py) 
 
-- [24-6kyu_WhoLikesIt.](https://github.com/juanfranj/CodeWars/blob/master/python/6kyu/6kyu_WhoLikesIt.py) 
+- [24-6kyu_WeIrDStRiNgCaSe.](https://github.com/juanfranj/CodeWars/blob/master/python/6kyu/6kyu_WeIrDStRiNgCaSe.py) 
+
+- [25-6kyu_WhoLikesIt.](https://github.com/juanfranj/CodeWars/blob/master/python/6kyu/6kyu_WhoLikesIt.py) 
 
 
 ### 7kyu:
@@ -206,4 +208,4 @@
 
 
 ***  
-Número de katas resueltos: **96**
+Número de katas resueltos: **97**
