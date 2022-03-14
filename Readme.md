@@ -48,79 +48,81 @@
 
 - 2-5kyu_AroundFibonacci. 
 
-- 3-5kyu_CalculatingWithFunctions. 
+- 3-5kyu_BestTravel. 
 
-- 4-5kyu_CanYouGetTheLoop. 
+- 4-5kyu_CalculatingWithFunctions. 
 
-- 5-5kyu_CreateSpriral. 
+- 5-5kyu_CanYouGetTheLoop. 
 
-- 6-5kyu_DataMinig1. 
+- 6-5kyu_CreateSpriral. 
 
-- 7-5kyu_DidYouMean. 
+- 7-5kyu_DataMinig1. 
 
-- 8-5kyu_Directions Reduction. 
+- 8-5kyu_DidYouMean. 
 
-- 9-5kyu_Esolang Interpreters #2. 
+- 9-5kyu_Directions Reduction. 
 
-- 10-5kyu_ExtractTheDomainURL. 
+- 10-5kyu_Esolang Interpreters #2. 
 
-- 11-5kyu_FirstNonRepeatingCharacter. 
+- 11-5kyu_ExtractTheDomainURL. 
 
-- 12-5kyu_Gap in Primes. 
+- 12-5kyu_FirstNonRepeatingCharacter. 
 
-- 13-5kyu_GreedIsGood. 
+- 13-5kyu_Gap in Primes. 
 
-- 14-5kyu_HumanReadableTime. 
+- 14-5kyu_GreedIsGood. 
 
-- 15-5kyu_IntegersRecreationOne. 
+- 15-5kyu_HumanReadableTime. 
 
-- 16-5kyu_LastDigitLargeNumber. 
+- 16-5kyu_IntegersRecreationOne. 
 
-- 17-5kyu_MaximunSubarraySum. 
+- 17-5kyu_LastDigitLargeNumber. 
 
-- 18-5kyu_MemoizedFibonacci. 
+- 18-5kyu_MaximunSubarraySum. 
 
-- 19-5kyu_MovingZerosToTheEnd. 
+- 19-5kyu_MemoizedFibonacci. 
 
-- 20-5kyu_NotVerySecure. 
+- 20-5kyu_MovingZerosToTheEnd. 
 
-- 21-5kyu_NumberTraillingZeros. 
+- 21-5kyu_NotVerySecure. 
 
-- 22-5kyu_PaginationHelper. 
+- 22-5kyu_NumberTraillingZeros. 
 
-- 23-5kyu_PerimeterSquaersInRectangle. 
+- 23-5kyu_PaginationHelper. 
 
-- 24-5kyu_PeteTheBacker. 
+- 24-5kyu_PerimeterSquaersInRectangle. 
 
-- 25-5kyu_PickPeaks. 
+- 25-5kyu_PeteTheBacker. 
 
-- 26-5kyu_PrimesInNumbers. 
+- 26-5kyu_PickPeaks. 
 
-- 27-5kyu_Product of consecutive Fib numbers. 
+- 27-5kyu_PrimesInNumbers. 
 
-- 28-5kyu_RegexPasswordValidation. 
+- 28-5kyu_Product of consecutive Fib numbers. 
 
-- 29-5Kyu_RGBToHexConversion. 
+- 29-5kyu_RegexPasswordValidation. 
 
-- 30-5kyu_Rot13. 
+- 30-5Kyu_RGBToHexConversion. 
 
-- 31-5kyu_Scramblies. 
+- 31-5kyu_Rot13. 
 
-- 32-5kyu_SimplePigLatin. 
+- 32-5kyu_Scramblies. 
 
-- 33-5kyu_String incrementer. 
+- 33-5kyu_SimplePigLatin. 
 
-- 34-5kyu_SumOfPairs. 
+- 34-5kyu_String incrementer. 
 
-- 35-5kyu_TheHastagGenerator. 
+- 35-5kyu_SumOfPairs. 
 
-- 36-5kyu_Valid Parentheses. 
+- 36-5kyu_TheHastagGenerator. 
 
-- 37-5kyu_WeightForWight. 
+- 37-5kyu_Valid Parentheses. 
 
-- 38-5kyu_WhatsPerfectPowerAnyWay. 
+- 38-5kyu_WeightForWight. 
 
-- 39-5kyu_WhereMyAnagramsAt. 
+- 39-5kyu_WhatsPerfectPowerAnyWay. 
+
+- 40-5kyu_WhereMyAnagramsAt. 
 
 
 ### 6kyu:
@@ -200,4 +202,4 @@
 
 
 ***  
-Número de katas resueltos: **93**
+Número de katas resueltos: **94**
