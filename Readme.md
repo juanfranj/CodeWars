@@ -199,5 +199,4 @@
 - 3-8kyu_OppositeNumber. 
 
 
- El numero de katas resueltos es 93
-#Carmen es la mas guapa del mundo
+ Número de katas resueltos: **93**
