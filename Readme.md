@@ -36,7 +36,7 @@
 
 -[13-4kyu_SumOfIntervals.](https://github.com/juanfranj/CodeWars/blob/master/python/4kyu/4kyu_SumOfIntervals.py) 
 
--[14-4kyu_Ten-Pin Bowling.](https://github.com/juanfranj/CodeWars/blob/master/python/4kyu/4kyu_Ten-Pin Bowling.py) 
+-[14-4kyu_TenPinBowling.](https://github.com/juanfranj/CodeWars/blob/master/python/4kyu/4kyu_TenPinBowling.py) 
 
 -[15-4kyu_TheObservedPin.](https://github.com/juanfranj/CodeWars/blob/master/python/4kyu/4kyu_TheObservedPin.py) 
 
