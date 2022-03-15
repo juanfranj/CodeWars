@@ -130,55 +130,61 @@
 
 
 ### 6kyu:
-- [1-6kyu_ArrayDiff.](https://github.com/juanfranj/CodeWars/blob/master/python/6kyu/6kyu_ArrayDiff.py) 
+- [1-6kuy_UniqueInOrder.](https://github.com/juanfranj/CodeWars/blob/master/python/6kyu/6kuy_UniqueInOrder.py) 
 
-- [2-6kyu_BitCounting.](https://github.com/juanfranj/CodeWars/blob/master/python/6kyu/6kyu_BitCounting.py) 
+- [2-6kyu_ArrayDiff.](https://github.com/juanfranj/CodeWars/blob/master/python/6kyu/6kyu_ArrayDiff.py) 
 
-- [3-6kyu_CountEspiral.](https://github.com/juanfranj/CodeWars/blob/master/python/6kyu/6kyu_CountEspiral.py) 
+- [3-6kyu_BitCounting.](https://github.com/juanfranj/CodeWars/blob/master/python/6kyu/6kyu_BitCounting.py) 
 
-- [4-6kyu_CountingDuplicates.](https://github.com/juanfranj/CodeWars/blob/master/python/6kyu/6kyu_CountingDuplicates.py) 
+- [4-6kyu_ConvertStringToCamelCase.](https://github.com/juanfranj/CodeWars/blob/master/python/6kyu/6kyu_ConvertStringToCamelCase.py) 
 
-- [5-6kyu_CreatePhoneNumber.](https://github.com/juanfranj/CodeWars/blob/master/python/6kyu/6kyu_CreatePhoneNumber.py) 
+- [5-6kyu_CountEspiral.](https://github.com/juanfranj/CodeWars/blob/master/python/6kyu/6kyu_CountEspiral.py) 
 
-- [6-6kyu_DecodeTheMorseCode.](https://github.com/juanfranj/CodeWars/blob/master/python/6kyu/6kyu_DecodeTheMorseCode.py) 
+- [6-6kyu_CountingDuplicates.](https://github.com/juanfranj/CodeWars/blob/master/python/6kyu/6kyu_CountingDuplicates.py) 
 
-- [7-6kyu_DigitalRoot.](https://github.com/juanfranj/CodeWars/blob/master/python/6kyu/6kyu_DigitalRoot.py) 
+- [7-6kyu_CreatePhoneNumber.](https://github.com/juanfranj/CodeWars/blob/master/python/6kyu/6kyu_CreatePhoneNumber.py) 
 
-- [8-6kyu_DoesMyNumberLookBigThis.](https://github.com/juanfranj/CodeWars/blob/master/python/6kyu/6kyu_DoesMyNumberLookBigThis.py) 
+- [8-6kyu_DecodeTheMorseCode.](https://github.com/juanfranj/CodeWars/blob/master/python/6kyu/6kyu_DecodeTheMorseCode.py) 
 
-- [9-6kyu_DuplicateEncoder.](https://github.com/juanfranj/CodeWars/blob/master/python/6kyu/6kyu_DuplicateEncoder.py) 
+- [9-6kyu_DigitalRoot.](https://github.com/juanfranj/CodeWars/blob/master/python/6kyu/6kyu_DigitalRoot.py) 
 
-- [10-6kyu_EncrypThis.](https://github.com/juanfranj/CodeWars/blob/master/python/6kyu/6kyu_EncrypThis.py) 
+- [10-6kyu_DoesMyNumberLookBigThis.](https://github.com/juanfranj/CodeWars/blob/master/python/6kyu/6kyu_DoesMyNumberLookBigThis.py) 
 
-- [11-6kyu_EqualSidesOfAnArray.](https://github.com/juanfranj/CodeWars/blob/master/python/6kyu/6kyu_EqualSidesOfAnArray.py) 
+- [11-6kyu_DuplicateEncoder.](https://github.com/juanfranj/CodeWars/blob/master/python/6kyu/6kyu_DuplicateEncoder.py) 
 
-- [12-6kyu_FindTheOddInt.](https://github.com/juanfranj/CodeWars/blob/master/python/6kyu/6kyu_FindTheOddInt.py) 
+- [12-6kyu_EncrypThis.](https://github.com/juanfranj/CodeWars/blob/master/python/6kyu/6kyu_EncrypThis.py) 
 
-- [13-6kyu_FindTheParityOutlier.](https://github.com/juanfranj/CodeWars/blob/master/python/6kyu/6kyu_FindTheParityOutlier.py) 
+- [13-6kyu_EqualSidesOfAnArray.](https://github.com/juanfranj/CodeWars/blob/master/python/6kyu/6kyu_EqualSidesOfAnArray.py) 
 
-- [14-6kyu_FindUniqueNumber.](https://github.com/juanfranj/CodeWars/blob/master/python/6kyu/6kyu_FindUniqueNumber.py) 
+- [14-6kyu_FindTheOddInt.](https://github.com/juanfranj/CodeWars/blob/master/python/6kyu/6kyu_FindTheOddInt.py) 
 
-- [15-6kyu_IQTest.](https://github.com/juanfranj/CodeWars/blob/master/python/6kyu/6kyu_IQTest.py) 
+- [15-6kyu_FindTheParityOutlier.](https://github.com/juanfranj/CodeWars/blob/master/python/6kyu/6kyu_FindTheParityOutlier.py) 
 
-- [16-6kyu_Multiplies3or5.](https://github.com/juanfranj/CodeWars/blob/master/python/6kyu/6kyu_Multiplies3or5.py) 
+- [16-6kyu_FindUniqueNumber.](https://github.com/juanfranj/CodeWars/blob/master/python/6kyu/6kyu_FindUniqueNumber.py) 
 
-- [17-6kyu_PersistentBugger.](https://github.com/juanfranj/CodeWars/blob/master/python/6kyu/6kyu_PersistentBugger.py) 
+- [17-6kyu_IQTest.](https://github.com/juanfranj/CodeWars/blob/master/python/6kyu/6kyu_IQTest.py) 
 
-- [18-6kyu_RomanNumeralsDecoder.](https://github.com/juanfranj/CodeWars/blob/master/python/6kyu/6kyu_RomanNumeralsDecoder.py) 
+- [18-6kyu_Multiplies3or5.](https://github.com/juanfranj/CodeWars/blob/master/python/6kyu/6kyu_Multiplies3or5.py) 
 
-- [19-6kyu_SortOnlyIntegers.](https://github.com/juanfranj/CodeWars/blob/master/python/6kyu/6kyu_SortOnlyIntegers.py) 
+- [19-6kyu_PersistentBugger.](https://github.com/juanfranj/CodeWars/blob/master/python/6kyu/6kyu_PersistentBugger.py) 
 
-- [20-6kyu_StopGninninpSMySdroW.](https://github.com/juanfranj/CodeWars/blob/master/python/6kyu/6kyu_StopGninninpSMySdroW.py) 
+- [20-6kyu_ReplaceWithAlphabetPosition.](https://github.com/juanfranj/CodeWars/blob/master/python/6kyu/6kyu_ReplaceWithAlphabetPosition.py) 
 
-- [21-6kyu_SumDigitsDigitalRoot.](https://github.com/juanfranj/CodeWars/blob/master/python/6kyu/6kyu_SumDigitsDigitalRoot.py) 
+- [21-6kyu_RomanNumeralsDecoder.](https://github.com/juanfranj/CodeWars/blob/master/python/6kyu/6kyu_RomanNumeralsDecoder.py) 
 
-- [22-6kyu_TakeTenMinuteWalk.](https://github.com/juanfranj/CodeWars/blob/master/python/6kyu/6kyu_TakeTenMinuteWalk.py) 
+- [22-6kyu_SortOnlyIntegers.](https://github.com/juanfranj/CodeWars/blob/master/python/6kyu/6kyu_SortOnlyIntegers.py) 
 
-- [23-6kyu_TribonacciSequence.](https://github.com/juanfranj/CodeWars/blob/master/python/6kyu/6kyu_TribonacciSequence.py) 
+- [23-6kyu_StopGninninpSMySdroW.](https://github.com/juanfranj/CodeWars/blob/master/python/6kyu/6kyu_StopGninninpSMySdroW.py) 
 
-- [24-6kyu_WeIrDStRiNgCaSe.](https://github.com/juanfranj/CodeWars/blob/master/python/6kyu/6kyu_WeIrDStRiNgCaSe.py) 
+- [24-6kyu_SumDigitsDigitalRoot.](https://github.com/juanfranj/CodeWars/blob/master/python/6kyu/6kyu_SumDigitsDigitalRoot.py) 
 
-- [25-6kyu_WhoLikesIt.](https://github.com/juanfranj/CodeWars/blob/master/python/6kyu/6kyu_WhoLikesIt.py) 
+- [25-6kyu_TakeTenMinuteWalk.](https://github.com/juanfranj/CodeWars/blob/master/python/6kyu/6kyu_TakeTenMinuteWalk.py) 
+
+- [26-6kyu_TribonacciSequence.](https://github.com/juanfranj/CodeWars/blob/master/python/6kyu/6kyu_TribonacciSequence.py) 
+
+- [27-6kyu_WeIrDStRiNgCaSe.](https://github.com/juanfranj/CodeWars/blob/master/python/6kyu/6kyu_WeIrDStRiNgCaSe.py) 
+
+- [28-6kyu_WhoLikesIt.](https://github.com/juanfranj/CodeWars/blob/master/python/6kyu/6kyu_WhoLikesIt.py) 
 
 
 ### 7kyu:
@@ -212,4 +218,4 @@
 
 
 ***  
-Número de katas resueltos: **99**
+Número de katas resueltos: **102**
