@@ -5,14 +5,12 @@ def dig_pow(n, p):
         suma += int(i)**exp
         exp += 1
     print(suma)
-    return suma//n if suma >= n and suma%n == 0 else -1
+    return suma//n if suma%n == 0 else -1
 
 if __name__ == '__main__':
-    n = 46288
-    p = 5
+    n = 89
+    p = 1
     print(dig_pow(n,p))
-    for i,c in enumerate(str(n)):
-        print(i,c)
 
 '''
 def dig_pow(n, p):

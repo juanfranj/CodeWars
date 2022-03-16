@@ -80,53 +80,55 @@
 
 - [18-5kyu_IntegersRecreationOne.](https://github.com/juanfranj/CodeWars/blob/master/python/5kyu/5kyu_IntegersRecreationOne.py) 
 
-- [19-5kyu_LastDigitLargeNumber.](https://github.com/juanfranj/CodeWars/blob/master/python/5kyu/5kyu_LastDigitLargeNumber.py) 
+- [19-5kyu_IsMyFriedCheating.](https://github.com/juanfranj/CodeWars/blob/master/python/5kyu/5kyu_IsMyFriedCheating.py) 
 
-- [20-5kyu_MaximunSubarraySum.](https://github.com/juanfranj/CodeWars/blob/master/python/5kyu/5kyu_MaximunSubarraySum.py) 
+- [20-5kyu_LastDigitLargeNumber.](https://github.com/juanfranj/CodeWars/blob/master/python/5kyu/5kyu_LastDigitLargeNumber.py) 
 
-- [21-5kyu_MemoizedFibonacci.](https://github.com/juanfranj/CodeWars/blob/master/python/5kyu/5kyu_MemoizedFibonacci.py) 
+- [21-5kyu_MaximunSubarraySum.](https://github.com/juanfranj/CodeWars/blob/master/python/5kyu/5kyu_MaximunSubarraySum.py) 
 
-- [22-5kyu_MovingZerosToTheEnd.](https://github.com/juanfranj/CodeWars/blob/master/python/5kyu/5kyu_MovingZerosToTheEnd.py) 
+- [22-5kyu_MemoizedFibonacci.](https://github.com/juanfranj/CodeWars/blob/master/python/5kyu/5kyu_MemoizedFibonacci.py) 
 
-- [23-5kyu_NotVerySecure.](https://github.com/juanfranj/CodeWars/blob/master/python/5kyu/5kyu_NotVerySecure.py) 
+- [23-5kyu_MovingZerosToTheEnd.](https://github.com/juanfranj/CodeWars/blob/master/python/5kyu/5kyu_MovingZerosToTheEnd.py) 
 
-- [24-5kyu_NumberTraillingZeros.](https://github.com/juanfranj/CodeWars/blob/master/python/5kyu/5kyu_NumberTraillingZeros.py) 
+- [24-5kyu_NotVerySecure.](https://github.com/juanfranj/CodeWars/blob/master/python/5kyu/5kyu_NotVerySecure.py) 
 
-- [25-5kyu_PaginationHelper.](https://github.com/juanfranj/CodeWars/blob/master/python/5kyu/5kyu_PaginationHelper.py) 
+- [25-5kyu_NumberTraillingZeros.](https://github.com/juanfranj/CodeWars/blob/master/python/5kyu/5kyu_NumberTraillingZeros.py) 
 
-- [26-5kyu_PerimeterSquaersInRectangle.](https://github.com/juanfranj/CodeWars/blob/master/python/5kyu/5kyu_PerimeterSquaersInRectangle.py) 
+- [26-5kyu_PaginationHelper.](https://github.com/juanfranj/CodeWars/blob/master/python/5kyu/5kyu_PaginationHelper.py) 
 
-- [27-5kyu_PeteTheBacker.](https://github.com/juanfranj/CodeWars/blob/master/python/5kyu/5kyu_PeteTheBacker.py) 
+- [27-5kyu_PerimeterSquaersInRectangle.](https://github.com/juanfranj/CodeWars/blob/master/python/5kyu/5kyu_PerimeterSquaersInRectangle.py) 
 
-- [28-5kyu_PickPeaks.](https://github.com/juanfranj/CodeWars/blob/master/python/5kyu/5kyu_PickPeaks.py) 
+- [28-5kyu_PeteTheBacker.](https://github.com/juanfranj/CodeWars/blob/master/python/5kyu/5kyu_PeteTheBacker.py) 
 
-- [29-5kyu_PrimesInNumbers.](https://github.com/juanfranj/CodeWars/blob/master/python/5kyu/5kyu_PrimesInNumbers.py) 
+- [29-5kyu_PickPeaks.](https://github.com/juanfranj/CodeWars/blob/master/python/5kyu/5kyu_PickPeaks.py) 
 
-- [30-5kyu_ProductConsecutiveFibNumbers.](https://github.com/juanfranj/CodeWars/blob/master/python/5kyu/5kyu_ProductConsecutiveFibNumbers.py) 
+- [30-5kyu_PrimesInNumbers.](https://github.com/juanfranj/CodeWars/blob/master/python/5kyu/5kyu_PrimesInNumbers.py) 
 
-- [31-5kyu_RegexPasswordValidation.](https://github.com/juanfranj/CodeWars/blob/master/python/5kyu/5kyu_RegexPasswordValidation.py) 
+- [31-5kyu_ProductConsecutiveFibNumbers.](https://github.com/juanfranj/CodeWars/blob/master/python/5kyu/5kyu_ProductConsecutiveFibNumbers.py) 
 
-- [32-5Kyu_RGBToHexConversion.](https://github.com/juanfranj/CodeWars/blob/master/python/5kyu/5Kyu_RGBToHexConversion.py) 
+- [32-5kyu_RegexPasswordValidation.](https://github.com/juanfranj/CodeWars/blob/master/python/5kyu/5kyu_RegexPasswordValidation.py) 
 
-- [33-5kyu_Rot13.](https://github.com/juanfranj/CodeWars/blob/master/python/5kyu/5kyu_Rot13.py) 
+- [33-5Kyu_RGBToHexConversion.](https://github.com/juanfranj/CodeWars/blob/master/python/5kyu/5Kyu_RGBToHexConversion.py) 
 
-- [34-5kyu_Scramblies.](https://github.com/juanfranj/CodeWars/blob/master/python/5kyu/5kyu_Scramblies.py) 
+- [34-5kyu_Rot13.](https://github.com/juanfranj/CodeWars/blob/master/python/5kyu/5kyu_Rot13.py) 
 
-- [35-5kyu_SimplePigLatin.](https://github.com/juanfranj/CodeWars/blob/master/python/5kyu/5kyu_SimplePigLatin.py) 
+- [35-5kyu_Scramblies.](https://github.com/juanfranj/CodeWars/blob/master/python/5kyu/5kyu_Scramblies.py) 
 
-- [36-5kyu_StringIncrementer.](https://github.com/juanfranj/CodeWars/blob/master/python/5kyu/5kyu_StringIncrementer.py) 
+- [36-5kyu_SimplePigLatin.](https://github.com/juanfranj/CodeWars/blob/master/python/5kyu/5kyu_SimplePigLatin.py) 
 
-- [37-5kyu_SumOfPairs.](https://github.com/juanfranj/CodeWars/blob/master/python/5kyu/5kyu_SumOfPairs.py) 
+- [37-5kyu_StringIncrementer.](https://github.com/juanfranj/CodeWars/blob/master/python/5kyu/5kyu_StringIncrementer.py) 
 
-- [38-5kyu_TheHastagGenerator.](https://github.com/juanfranj/CodeWars/blob/master/python/5kyu/5kyu_TheHastagGenerator.py) 
+- [38-5kyu_SumOfPairs.](https://github.com/juanfranj/CodeWars/blob/master/python/5kyu/5kyu_SumOfPairs.py) 
 
-- [39-5kyu_ValidParentheses.](https://github.com/juanfranj/CodeWars/blob/master/python/5kyu/5kyu_ValidParentheses.py) 
+- [39-5kyu_TheHastagGenerator.](https://github.com/juanfranj/CodeWars/blob/master/python/5kyu/5kyu_TheHastagGenerator.py) 
 
-- [40-5kyu_WeightForWight.](https://github.com/juanfranj/CodeWars/blob/master/python/5kyu/5kyu_WeightForWight.py) 
+- [40-5kyu_ValidParentheses.](https://github.com/juanfranj/CodeWars/blob/master/python/5kyu/5kyu_ValidParentheses.py) 
 
-- [41-5kyu_WhatsPerfectPowerAnyWay.](https://github.com/juanfranj/CodeWars/blob/master/python/5kyu/5kyu_WhatsPerfectPowerAnyWay.py) 
+- [41-5kyu_WeightForWight.](https://github.com/juanfranj/CodeWars/blob/master/python/5kyu/5kyu_WeightForWight.py) 
 
-- [42-5kyu_WhereMyAnagramsAt.](https://github.com/juanfranj/CodeWars/blob/master/python/5kyu/5kyu_WhereMyAnagramsAt.py) 
+- [42-5kyu_WhatsPerfectPowerAnyWay.](https://github.com/juanfranj/CodeWars/blob/master/python/5kyu/5kyu_WhatsPerfectPowerAnyWay.py) 
+
+- [43-5kyu_WhereMyAnagramsAt.](https://github.com/juanfranj/CodeWars/blob/master/python/5kyu/5kyu_WhereMyAnagramsAt.py) 
 
 
 ### 6kyu:
@@ -222,4 +224,4 @@
 
 
 ***  
-Número de katas resueltos: **104**
+Número de katas resueltos: **105**
