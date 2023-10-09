@@ -9,7 +9,7 @@ def pasar_diccionario(s):
     dic = {}
     for i in s.split(" "):
         for j in range(1, len(s.split(" "))+1):
-            print(i, j)
+            #print(i, j)
             if str(j) in i:
                 dic[i] = j
                 break
