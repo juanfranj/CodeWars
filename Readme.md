@@ -1,6 +1,5 @@
 # Katas CodeWars
-![Juanfran ](https://www.codewars.com/users/juanfranj/badges/large
-) 
+![Juanfran ](https://www.codewars.com/users/juanfranj/badges/large)
 
 ### 3kyu:
 - [1-3kyu_Battleshipfieldvalidator.](https://github.com/juanfranj/CodeWars/blob/master/python/3kyu/3kyu_Battleshipfieldvalidator.py) 
@@ -179,33 +178,35 @@
 
 - [22-6kyu_Multiplies3or5.](https://github.com/juanfranj/CodeWars/blob/master/python/6kyu/6kyu_Multiplies3or5.py) 
 
-- [23-6kyu_PersistentBugger.](https://github.com/juanfranj/CodeWars/blob/master/python/6kyu/6kyu_PersistentBugger.py) 
+- [23-6kyu_NumberNumberWaitLETTER.](https://github.com/juanfranj/CodeWars/blob/master/python/6kyu/6kyu_NumberNumberWaitLETTER.py) 
 
-- [24-6kyu_PlayingWithDigits.](https://github.com/juanfranj/CodeWars/blob/master/python/6kyu/6kyu_PlayingWithDigits.py) 
+- [24-6kyu_PersistentBugger.](https://github.com/juanfranj/CodeWars/blob/master/python/6kyu/6kyu_PersistentBugger.py) 
 
-- [25-6kyu_ReplaceWithAlphabetPosition.](https://github.com/juanfranj/CodeWars/blob/master/python/6kyu/6kyu_ReplaceWithAlphabetPosition.py) 
+- [25-6kyu_PlayingWithDigits.](https://github.com/juanfranj/CodeWars/blob/master/python/6kyu/6kyu_PlayingWithDigits.py) 
 
-- [26-6kyu_RomanNumeralsDecoder.](https://github.com/juanfranj/CodeWars/blob/master/python/6kyu/6kyu_RomanNumeralsDecoder.py) 
+- [26-6kyu_ReplaceWithAlphabetPosition.](https://github.com/juanfranj/CodeWars/blob/master/python/6kyu/6kyu_ReplaceWithAlphabetPosition.py) 
 
-- [27-6kyu_SortedTheOdd.](https://github.com/juanfranj/CodeWars/blob/master/python/6kyu/6kyu_SortedTheOdd.py) 
+- [27-6kyu_RomanNumeralsDecoder.](https://github.com/juanfranj/CodeWars/blob/master/python/6kyu/6kyu_RomanNumeralsDecoder.py) 
 
-- [28-6kyu_SortOnlyIntegers.](https://github.com/juanfranj/CodeWars/blob/master/python/6kyu/6kyu_SortOnlyIntegers.py) 
+- [28-6kyu_SortedTheOdd.](https://github.com/juanfranj/CodeWars/blob/master/python/6kyu/6kyu_SortedTheOdd.py) 
 
-- [29-6kyu_SplitString.](https://github.com/juanfranj/CodeWars/blob/master/python/6kyu/6kyu_SplitString.py) 
+- [29-6kyu_SortOnlyIntegers.](https://github.com/juanfranj/CodeWars/blob/master/python/6kyu/6kyu_SortOnlyIntegers.py) 
 
-- [30-6kyu_StopGninninpSMySdroW.](https://github.com/juanfranj/CodeWars/blob/master/python/6kyu/6kyu_StopGninninpSMySdroW.py) 
+- [30-6kyu_SplitString.](https://github.com/juanfranj/CodeWars/blob/master/python/6kyu/6kyu_SplitString.py) 
 
-- [31-6kyu_SumDigitsDigitalRoot.](https://github.com/juanfranj/CodeWars/blob/master/python/6kyu/6kyu_SumDigitsDigitalRoot.py) 
+- [31-6kyu_StopGninninpSMySdroW.](https://github.com/juanfranj/CodeWars/blob/master/python/6kyu/6kyu_StopGninninpSMySdroW.py) 
 
-- [32-6kyu_TakeTenMinuteWalk.](https://github.com/juanfranj/CodeWars/blob/master/python/6kyu/6kyu_TakeTenMinuteWalk.py) 
+- [32-6kyu_SumDigitsDigitalRoot.](https://github.com/juanfranj/CodeWars/blob/master/python/6kyu/6kyu_SumDigitsDigitalRoot.py) 
 
-- [33-6kyu_TribonacciSequence.](https://github.com/juanfranj/CodeWars/blob/master/python/6kyu/6kyu_TribonacciSequence.py) 
+- [33-6kyu_TakeTenMinuteWalk.](https://github.com/juanfranj/CodeWars/blob/master/python/6kyu/6kyu_TakeTenMinuteWalk.py) 
 
-- [34-6kyu_WeIrDStRiNgCaSe.](https://github.com/juanfranj/CodeWars/blob/master/python/6kyu/6kyu_WeIrDStRiNgCaSe.py) 
+- [34-6kyu_TribonacciSequence.](https://github.com/juanfranj/CodeWars/blob/master/python/6kyu/6kyu_TribonacciSequence.py) 
 
-- [35-6kyu_WhoLikesIt.](https://github.com/juanfranj/CodeWars/blob/master/python/6kyu/6kyu_WhoLikesIt.py) 
+- [35-6kyu_WeIrDStRiNgCaSe.](https://github.com/juanfranj/CodeWars/blob/master/python/6kyu/6kyu_WeIrDStRiNgCaSe.py) 
 
-- [36-6kyu_YourOrderPlease.](https://github.com/juanfranj/CodeWars/blob/master/python/6kyu/6kyu_YourOrderPlease.py) 
+- [36-6kyu_WhoLikesIt.](https://github.com/juanfranj/CodeWars/blob/master/python/6kyu/6kyu_WhoLikesIt.py) 
+
+- [37-6kyu_YourOrderPlease.](https://github.com/juanfranj/CodeWars/blob/master/python/6kyu/6kyu_YourOrderPlease.py) 
 
 
 ### 7kyu:
@@ -239,4 +240,4 @@
 
 
 ***  
-Nï¿½mero de katas resueltos: **112**
+Número de katas resueltos: **113**
