@@ -1,5 +1,6 @@
 # Katas CodeWars
-
+![Juanfran ](https://www.codewars.com/users/juanfranj/badges/large
+) 
 
 ### 3kyu:
 - [1-3kyu_Battleshipfieldvalidator.](https://github.com/juanfranj/CodeWars/blob/master/python/3kyu/3kyu_Battleshipfieldvalidator.py) 
@@ -238,4 +239,4 @@
 
 
 ***  
-Número de katas resueltos: **112**
+Nï¿½mero de katas resueltos: **112**
